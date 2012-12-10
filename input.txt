@@ -1,0 +1,5 @@
+#mRNA #1
+aauguacguauugacugacugaauacacuauacugacugacucuauuguacguacugacugacuga
+
+#mRNA #2
+aaugucuaugcucacugacugaauucacuauacucacugagucaa
