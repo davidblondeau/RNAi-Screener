@@ -14,7 +14,7 @@ For the purposes of this problem assume that the sense and antisense strands of 
 4.  the absence of any GC stretch over 9bp in length.
 
 
-![siRNA diagram](RNAi-Screener/blob/master/diagram.png)
+![siRNA diagram](https://raw.github.com/davidblondeau/RNAi-Screener/master/diagram.png)
 
 (diagram taken from siDirect: http://alps3.gi.k.u-tokyo.ac.jp/~yamada/sidirect2/index.php)
 
